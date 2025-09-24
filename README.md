@@ -14,7 +14,7 @@ I have a solid foundation in both front-end and back-end technologies.
 
 🌐 **Frontend:**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,css,html,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,js,css,html,tailwind,bootstrap&theme=dark" />
 </p>
 
 ⚙️ **Backend & Databases:**
@@ -29,37 +29,8 @@ I have a solid foundation in both front-end and back-end technologies.
 
 🔧 **Tools & Others:**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pandas,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pandas&theme=dark" />
 </p>
-
----
-
-### 🚀 Projects
-Here are a few projects I've worked on that showcase my skills and passion for building.
-
-#### [cite_start]**Linkup.AI** (Open-Source Contributor) [cite: 22, 70]
-[cite_start]An AI-driven platform where I contributed to several key features[cite: 23, 71].
-* [cite_start]**AI Bio Generator:** Integrated the Google Gemini API to create personalized bios[cite: 23].
-* [cite_start]**Career Boost Module:** Developed certification recommendation features and improved its overall functionality[cite: 24].
-* [cite_start]**Authentication & Bug Fixes:** Worked on the login/signup system and resolved critical bugs and UI issues[cite: 25, 26].
-* [cite_start]**Collaboration:** Engaged in a distributed team environment, following best practices for version control and code reviews[cite: 28].
-
-#### [cite_start]**Skyways** (Flight Booking App) [cite: 29]
-[cite_start]A responsive flight booking web application built with React[cite: 30].
-* [cite_start]Implemented core features including flight search, filtering, and booking with dynamic data integration[cite: 31].
-* [cite_start]Engineered a secure user authentication system with persistent session management[cite: 32].
-* [cite_start]Designed modular components to ensure scalability and maintainability[cite: 33].
-
-#### [cite_start]**Personal Portfolio** [cite: 34]
-[cite_start]A showcase of my skills, projects, and experiences in web development, AI, and entrepreneurship[cite: 36, 37].
-
----
-
-### 🏅 Certifications & Activities
-* [cite_start]**Software Developer Intern** at TopSqill, where I contributed to feature development and bug resolution for real-world applications[cite: 16, 17, 19].
-* [cite_start]**Generative AI for Everyone** (Coursera) [cite: 39] [cite_start]and **AI for Everyone** (DeepLearning.AI) [cite: 50][cite_start]: Completed these courses to gain a strong understanding of AI fundamentals and ethical considerations[cite: 43, 44, 51, 52].
-* [cite_start]**Hackathon Participant:** Competed in a web development hackathon, enhancing my coding and problem-solving skills in a collaborative environment[cite: 63, 64].
-* [cite_start]**Robo Maze Car Race Participant:** Applied technical knowledge to design and program a robot, sharpening my hands-on engineering skills[cite: 65, 66].
 
 ---
 
