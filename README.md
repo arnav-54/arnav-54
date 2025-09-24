@@ -46,9 +46,9 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔹 [**Linkup.AI**]([https://github.com/your-github-username/your-repo-link](https://github.com/nst-sdc/LinkUp.AI)) – A web app for students to discover, RSVP, and track campus events. Clubs can manage events and volunteer registrations.
+- 🔹 [**Linkup.AI**]((https://github.com/nst-sdc/LinkUp.AI)) – A web app for students to discover, RSVP, and track campus events. Clubs can manage events and volunteer registrations.
 - 🔹 [**TV Show Tracker**](https://github.com/your-github-username/your-repo-link) – A functional web app to track and explore a large collection of TV shows with detailed information.
-- 🔹 [**My Portfolio**]([https://github.com/your-github-username/your-repo-link](https://github.com/arnav-54/arnavPortfolio)) – A personal website to showcase my skills, projects, and journey in tech.
+- 🔹 [**My Portfolio**]((https://github.com/arnav-54/arnavPortfolio)) – A personal website to showcase my skills, projects, and journey in tech.
 
 ---
 
