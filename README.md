@@ -3,11 +3,9 @@
 </p>
 ---
 # 👋 Hey there, I'm Arnav Kumar
-🚀 A passionate and driven Computer Science student with a focus on **Software Development** and **AI**. [cite_start]I'm currently pursuing my **Bachelor of Technology** at Newton School of Technology, ADYPU[cite: 12].
+🚀 A passionate and driven **Computer Science and Engineering** student with a focus on **Software Development** and **Problem-Solving**. I'm currently pursuing my **Bachelor of Technology** at Newton School of Technology, ADYPU.
 
-[cite_start]💡 I love turning ideas into practical, real-world applications and enjoy contributing to projects that make a tangible impact[cite: 9]. My goal is to build reliable and scalable software that users can genuinely benefit from.
-
----
+💡 I enjoy turning ideas into practical projects, have experience contributing to real-world applications, and have developed strong teamwork and communication skills. I'm eager to keep learning and make an impact in the tech field.
 
 ### 💻 Tech Stack & Skills
 I have a solid foundation in both front-end and back-end technologies.
