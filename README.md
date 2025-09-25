@@ -71,12 +71,13 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-<a href="your-linkedin-url"><img src="https://www.linkedin.com/in/arnav-kumar-ba550031b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"/></a>
-<a href="your-github-url"><img src="https://github.com/arnav-54"/></a>
-<a href="your-leetcode-url"><img src="https://leetcode.com/u/arnav_ku26/"/></a>
-<a href="your-codeforces-url"><img src="https://codeforces.com/profile/arnavkr2442"/></a>
+<a href="https://www.linkedin.com/in/arnav-kumar-ba550031b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/arnav-54"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/arnav_ku26/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/arnavkr2442"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </p>
 
 ---
+
 
 ✨
