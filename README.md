@@ -47,15 +47,15 @@
 
 ## 🚀 Featured Projects
 - 🔹 [**Linkup.AI**](https://link-upfork-one.vercel.app/) – A web app for students to discover, RSVP, and track campus events. Clubs can manage events and volunteer registrations.
-- 🔹 [**TV Show Tracker**](https://github.com/your-github-username/your-repo-link) – A functional web app to track and explore a large collection of TV shows with detailed information.
-- 🔹 [**My Portfolio**]((https://github.com/arnav-54/arnavPortfolio)) – A personal website to showcase my skills, projects, and journey in tech.
+- 🔹 [**SkyWays**](https://arnavflight.vercel.app/) – A functional web app to track and explore a large collection of TV shows with detailed information.
+- 🔹 [**My Portfolio**](https://67e4538981dea50559929c3a--comfy-palmier-07382d.netlify.app/) – A personal website to showcase my skills, projects, and journey in tech.
 
 ---
 
 ## 🏆 Certifications & Activities
 - 📜 Certified in **"Generative AI for Everyone"** from DeepLearning.AI.
 - 📜 Certified in **"AI For Everyone"** from Coursera.
-- 🏏 Actively participate in **cricket and kabaddi** to build teamwork and decision-making skills.
+- 💼 Completed Software Developer Intern role at TopSqill, contributing to feature development, bug fixes, and improving system usability.
 - 🎮 Enjoy **gaming**, which enhances my problem-solving abilities and cognitive agility.
 
 ---
@@ -71,10 +71,10 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-<a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="your-github-url"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="your-leetcode-url"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="your-codeforces-url"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="your-linkedin-url"><img src="https://www.linkedin.com/in/arnav-kumar-ba550031b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"/></a>
+<a href="your-github-url"><img src="https://github.com/arnav-54"/></a>
+<a href="your-leetcode-url"><img src="https://leetcode.com/u/arnav_ku26/"/></a>
+<a href="your-codeforces-url"><img src="https://codeforces.com/profile/arnavkr2442"/></a>
 </p>
 
 ---
