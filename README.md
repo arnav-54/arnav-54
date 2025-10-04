@@ -36,12 +36,12 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" />
 </p>
 
 ### 🧩 Tools, Libraries & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,numpy,pandas,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 </p>
 
 ---
