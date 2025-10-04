@@ -17,7 +17,7 @@
 - 🔭 Currently building **full-stack applications** using React and Node.js.  
 - 🤖 Exploring **Generative AI**, **LLMs**, and their real-world applications.  
 - 👯 Open to collaborating on **open-source projects, startups, and hackathons**.  
-- 💬 Ask me about **Java, JavaScript, React, Node.js, and Database Systems**.  
+- 💬 Ask me about **JavaScript, React, Node.js, and Database Systems**.  
 - ⚡ Fun fact: Playing **cricket** & **kabaddi** keeps my strategy and teamwork sharp!
 
 ---
